@@ -38,7 +38,7 @@ function  myFunction(){
    }
    
    
-    document.getElementById("demo").innerHTML=h+" :  "+m+" :  "+s+"  "+"<br>"+da;
+    document.getElementById("demo").innerHTML=h+" :  "+m+"  "+"<br>"+da;
 }
 
 
