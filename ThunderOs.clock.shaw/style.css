@@ -1,5 +1,20 @@
 
 
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+
+*{
+margin:0;
+}
+
+
+body{
+box-sizing:border-box ;
+font-family: 'Otomanopee One', sans-serif;
+
+}
+
+
 .transparent{
  background-color: #ffffff;
  opacity: 0.4;
