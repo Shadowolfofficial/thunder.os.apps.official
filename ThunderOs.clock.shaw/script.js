@@ -7,34 +7,32 @@ function  myFunction(){
     
     var h=d.getHours();
     var m=d.getMinutes();
-    var s=d.getSeconds();
-    
     var da=d.getDay();
     
     if(da===1){
-        da="Monday";
+        da="Lundi";
     }
     
     else if(da===2){
-        da="Tuesday";
+        da="Mardi";
     }
     
     else if(da===3){
-        da="Wednesday";
+        da="Mercredi";
     }
    else if(da===4){
-        da="Thursday";
+        da="Jeudi";
     }
     else if(da===5){
-        da="Friday";
+        da="Vendredi";
     }
     
    else  if(da===6){
-        da="Saturday";
+        da="Samedi";
     }
    
    else {
-       da="Sunday";
+       da="Dimanche";
    }
    
    
